@@ -1,242 +1,242 @@
-key,version,date_from,date_to,CodigoAssunto,DescricaoAssunto,GrupoAssunto
-0,1,"1970-01-01 00:00:01","2038-01-01 00:00:00",0,"Sem descricao","Sem Grupo"
-1,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",0," Não se aplica"," Não se aplica"
-2,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",1,"Padaria ( Pão-Francês, Pão de Centeio, Bolos, Bombas, Biscoitos, Massas Prontas Para Tortas, Docinhos, Confeitos e Outros )",Padaria
-3,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",2,"Supermercado ( Paes e Outros Produtos Feitos na Panificadora do Supermercado, Verduras, Frutas e Legumes In Natura, Carnes Cruas e Peixes Frescos do",Supermercado
-4,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",3,"Restaurante / Fast Food ( Refeições / Sanduíches Servidos Pelo Local )","Restaurante / Fast Food ( Refeições / Sanduíches Servidos Pelo Local )"
-5,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",4,"Açougue e Peixarias ( Produtos Crus Vendidos Neste Local )","Açougue e Peixarias ( Produtos Crus Vendidos Neste Local )"
-6,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",5,"Bares, Docerias, Chopperias, Casas Noturnas e Afins","Alimentos vendidos em Bares, Docerias, Chopperias, Casas Noturnas e Afins"
-7,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",6,"Açúcar / Mel","Açúcar / Mel"
-8,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",7,Água,Água
-9,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",8,"Bebidas Alcoólicas","Bebidas Alcoólicas"
-10,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",9,"Bolacha, biscoitos e petiscos","Bolacha, biscoitos e petiscos"
-11,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",10,Café,Café
-12,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",11,Chá,Chá
-13,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",12,"Carnes e Derivados (Hambúrguer congelado cru, peitos de frango temperados congelados, embutidos: salame, mortadela, salsicha, etc.)","Carnes e Derivados"
-14,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",13,"Conserva Animal (atum, sardinha, apresuntado, alite, feijoada, patê, etc.)","Conserva Animal (atum, sardinha, apresuntado, alite, feijoada, patê, etc.)"
-15,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",14,"Conserva Vegetal (azeitona, ervilha, milho, palmito, aspargo, cogumelo) em qualquer tipo de embalagem.","Conserva Vegetal (azeitona, ervilha, milho, palmito, aspargo, cogumelo) em qualquer tipo de embalagem."
-16,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",15,"Doces prontos (frutas em calda, cristalizadas, em geleias ou pastas, sorvetes, bala, suspiro, docinhos para festas enlatados, cristais de gengibre).","Doces prontos"
-17,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",16,"Especiarias e Condimentos (orégano, pimenta, cravo, canela, páprica, noz moscada, alho e cebola desidratados).","Especiarias e Condimentos"
-18,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",17,"Farináceos (fubá, polvilho, etc.)","Farináceos (fubá, polvilho, etc.)"
-19,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",18,"Grãos, cereais (feijão, grão de bico, arroz, farelo de trigo, sucrilho, aveia, granola, creme de arroz)","Grãos, cereais (feijão, grão de bico, arroz, farelo de trigo, sucrilho, aveia, granola, creme de arroz)"
-20,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",19,"Leite e derivados (bebidas lácteas, iogurte, queijo, manteiga, creme de leite - normal, em pó e light)","Leite e derivados"
-21,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",20,Massas,Massas
-22,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",21,Embalagem,Embalagem
-23,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",22,"Molhos (maionese, mostarda, ketchup, shoyo, inglês)","Molhos (maionese, mostarda, ketchup, shoyo, inglês)"
-24,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",23,Ovos,Ovos
-25,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",24,"Paes e bolos industrializados (pão de forma, bisnagas, bolos tipo Pullmam)","Pães e bolos industrializados (pão de forma, bisnagas, bolos)"
-26,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",25,"Peixes e frutos do mar (congelados e embalados)","Peixes e frutos do mar (congelados e embalados)"
-27,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",26,"Pratos prontos/pré preparados (tortas, pão de queijo, carnes recheadas cruas tipo marinados, nugets, salgadinhos, coxinhas, bolinhas de queijos e outros, pratos","Pratos prontos/pré preparados"
-28,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",27,"Alimento dietético (exceto refrigerante dietético)","Alimento dietético (exceto refrigerante dietético)"
-29,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",28,"Pós para preparo (refresco, gelatina, pudim, bolos, pão de queijo, pizza e sorvete)","Pós para preparo (refresco, gelatina, pudim, bolos, pão de queijo, pizza e sorvete)"
-30,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",29,"Ração animal","Ração animal"
-31,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",30,"Refrigerantes (normal, dietético e light)","Refrigerantes (normal, dietético e light)"
-32,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",31,"Suco (concentrado, prontos para beber, gelatina em floquinhos)",Sucos
-33,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",32,"Sopas (desidratadas, liofilizadas, latas e embaladas)",Sopas
-34,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",33,"Frutas e hortaliças (legumes, verduras, cebola e cabeça de alho in natura, embaladas com atmosfera modificada ou outro sistema de conservação)","Frutas e hortaliças"
-35,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",34,"Ticket (vale refeição, alimentação e leite)","Ticket (vale refeição, alimentação e leite)"
-36,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",35,"Produtos importados (todos os produtos)","Produtos alimentícios importados (todos os produtos)"
-37,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",36,"Alimentos infantis (leites próprios para crianças tipo nan, sopinha, neston, mucilon, cremogema)","Alimentos infantis (leites próprios para crianças, sopinha, etc)"
-38,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",37,"Óleos e gorduras (margarina normal e light, gordura vegetal hidrogenada, etc.)","Óleos e gorduras (margarina normal e light, gordura vegetal hidrogenada, etc.)"
-39,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",38,"Alimentos para fins especiais (atletas, gestantes, idosos e bebidas isotônicas)","Alimentos para fins especiais (atletas, gestantes, idosos)"
-40,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",39,"Complementos e suplementos nutricionais (óleo de fígado de bacalhau, levedo de cerveja, complexos vitamínicos e minerais, vitaminas e minerais isolados)","Complementos e suplementos nutricionais"
-41,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",40,"Tomate e derivados (in natura, extratos, molhos, polpa)","Tomate e derivados (in natura, extratos, molhos, polpa)"
-42,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",41,"Temperos prontos (ajinomoto, sal com alho, etc.)","Temperos prontos"
-43,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",42,"Fermento em pó e o biológico","Fermento em pó e o biológico"
-44,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",43,Sal,Sal
-45,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",45,"Chocolate (em pó, barra, tabletes, bombons)","Chocolate (em pó, barra, tabletes, bombons)"
-46,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",46,"Balança (informação nutricional, como valor calórico e relação peso/altura)","Balança (informação nutricional, como valor calórico e relação peso/altura)"
-47,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",47,"Venda através de reembolso postal a domicilio","Venda a Domicílio / Reembolso Postal"
-48,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",48,"Venda por telemarketing","Venda por telemarketing"
-49,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",49,"Venda por Internet","Venda de alimentos pela Internet"
-50,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",50,"Alimentos nutraceuticos (alimentos com finalidade terapêutica)","Alimentos nutraceuticos (alimentos com finalidade terapêutica)"
-51,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",51,"Cartões de Descontos","Cartões de Descontos"
-52,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",53,"Banco comercial","Banco comercial"
-53,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",54,"Cartão de Crédito","Cartão de Crédito"
-54,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",55,"Cartão de Loja","Cartão de Loja"
-55,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",56,"Consórcio Imobiliário",Consórcios
-56,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",57,"Consórcio de Automóveis ou Automotores, Utilitários, Caminhonetes",Consórcios
-57,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",58,"Consórcio de Motocicletas",Consórcios
-58,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",59,"Consórcio de Caminhões",Consórcios
-59,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",60,"Consórcio de Outros Bens - Móveis Duráveis",Consórcios
-60,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",61,"Consórcio de Bilhetes de Passagem Aérea e Pacote Turístico",Consórcios
-61,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",62,"Empresa de Cobrança","Empresa de Cobrança"
-62,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",63,Financeira,Financeira
-63,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",64,"Empresa Privada / Montepio Pecúlio (tbareaassunto Não Relativos ao Valor de Resgate)","Empresa Privada / Montepio Pecúlio (Não Relativos ao Valor de Resgate)"
-64,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",65,"Corretora de Seguros","Seguros (exceto Saúde)"
-65,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",66,"Seguro de Automóvel","Seguros (exceto Saúde)"
-66,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",67,"Seguro de Vida","Seguros (exceto Saúde)"
-67,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",68,"Seguro Residencial","Seguros (exceto Saúde)"
-68,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",69,"Outros Seguros","Seguros (exceto Saúde)"
-69,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",70,"Titulo de Capitalização","Titulo de Capitalização"
-70,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",71,"Venda Programada","Venda Programada"
-71,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",72,Leasing,Leasing
-72,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",73,"Estabelecimento / Loja - Compra a Prazo","Estabelecimento / Loja - Compra a Prazo"
-73,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",74,"Banco de Dados ( SPC - SERASA - ETC. )","Banco de Dados e Cadastros de Consumidores (SPC, Serasa, SCPC etc.)"
-74,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",75,"Comércio de Ouro","Comércio de Ouro"
-75,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",76,"Outros Contratos","Contratos Financeiros Diversos*"
-76,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",77,"Sociedade em conta de participação","Sociedade em conta de participação"
-77,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",78,"Cartões de Descontos","Cartões de Descontos"
-78,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",79,Seguro,"Seguros (exceto Saúde)"
-79,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",80,Locação,"Locação (Habitação)"
-80,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",81,Loteamento,Loteamento
-81,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",82,"Incorporação ( Construtoras e Incorporadoras )","Incorporação ( Construtoras e Incorporadoras )"
-82,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",83,Condomínio,Condomínio
-83,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",84,"Sociedade em conta de participação","Sociedade em conta de participação"
-84,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",85,"Cartões de Descontos","Cartões de Descontos"
-85,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",86,Seguro,"Seguros (exceto Saúde)"
-86,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",87,"Material de Construção (areia, cimento, tijolo, pregos, lajes, blocos, etc.)","Material de Construção (areia, cimento, tijolo, pregos, lajes, blocos, etc.)"
-87,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",88,"Acessório para Aparelho Eletrônico/Pilha/Elétrico (Agulha, fone de ouvido, bateria, etc.)","Acessório para Aparelho Eletrônico/Pilha/Elétrico (Agulha, fone de ouvido, bateria, etc.)"
-88,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",89,"Acessório Para Veículo ( Alarme, Amortecedor, Câmbio, Buzina, Estofamento, Lâmpada, Bateria, etc.)","Acessório Para Veículo ( Alarme, Amortecedor, Câmbio, Buzina, Estofamento, Lâmpada, Bateria, etc.)"
-89,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",90,"Acessório Para Vestuário ( Bolsa, Cinto, Chapéu, guarda-chuva, Jóia, Bijuteria, Luva, Etc. )","Vestuário (Calçados / Roupas / Acessórios)"
-90,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",91,"Artigo de audiovisual ( Fita Cassete, Disco, Fita de Vídeo, CD )","Artigo de audiovisual (CD, DVD etc.)"
-91,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",92,"Máquina de Lavar Roupa / Louça e Secadora","Eletrodomésticos Linha Branca"
-92,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",93,"Fogão e Microondas","Eletrodomésticos Linha Branca"
-93,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",94,"Geladeira e Freezer","Eletrodomésticos Linha Branca"
-94,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",95,"Aparelho de Som ( Gravador, 3x1, CD )","Aparelho de Som"
-95,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",96,"Televisão / Vídeo Cassete / Filmadora / Video-Laser","Televisão / Aparelho DVD / Filmadora"
-96,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",97,"Eletroportáteis ( Batedeira, Liqüidificador, Espremedor de Frutas, Etc. )","Eletroportáteis ( Batedeira, Liqüidificador, Espremedor de Frutas, Etc. )"
-97,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",98,"Artigos de Enxoval ( Cama / Mesa e Banho )","Artigos de Enxoval ( Cama / Mesa e Banho )"
-98,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",99,Pneu,Pneu
-99,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",100,Colchão,Colchão
-100,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",101,"Telefone ( Convencional, Celular, Interfone, Etc. )","Aparelho Celular"
-101,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",102,"Microcomputador / Produtos de Informática","Microcomputador / Produtos de Informática"
-102,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",103,"Artigo de Cozinha ( Coifa, Exaustor, Panela, Talher, Filtro de Café, Porta-Filtro, Louças, Etc. )","Artigo de Cozinha ( Coifa, Exaustor, Panela, Talher, Filtro de Café, Porta-Filtro, Louças, Etc. )"
-103,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",104,Fósforo,Fósforo
-104,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",105,"Artigo de Foto Imagem ( Filme, Ampliador, Luneta, Flash, Máquina Fotográfica, Binóculos, Etc. )","Artigo de Foto Imagem ( Filme, Ampliador, Luneta, Flash, Máquina Fotográfica, Binóculos, Etc. )"
-105,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",106,"Artigo de Leitura ( Formal, Jornal, Revista, Folheto, Livros, Etc. )","Artigo de Leitura (Jornal, Revista, Livros etc.)"
-106,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",107,"Artigo e Instrumento Musical ( Cordas, Violão, Flautas, Etc. )","Artigo e Instrumento Musical ( Cordas, Violão, Flautas, Etc. )"
-107,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",108,"Artigo Esportivo / Lazer ( Bola, Raquete, Rede, Cotoveleira, Arma, Baralho, Roleta, Etc. )","Artigo Esportivo / Lazer ( Bola, Raquete, Rede, Cotoveleira, Arma, Baralho, Roleta, Etc. )"
-108,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",109,"Artigo Para Festa ( Bexiga, Máscara, Enfeites, Fogos, Balão, Etc. )","Artigo Para Festa ( Bexiga, Máscara, Enfeites, Fogos, Balão, Etc. )"
-109,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",110,"Botijão de Gás","Botijão de Gás"
-110,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",111,"Purificador de Água / Filtro","Purificador de Água / Filtro"
-111,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",112,Brinquedos,Brinquedos
-112,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",113,"Camping / Náutica / Pesca / ( Barraca, Lampião, Barco, Vela, Motor, Anzol, Vara, Jet Ski )","Camping / Náutica / Pesca / ( Barraca, Lampião, Barco, Vela, Motor, Anzol, Vara, Jet Ski )"
-113,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",114,"Charutaria ( Cigarro, Tabaco, Cachimbo, Etc. )","Charutaria ( Cigarro, Tabaco, Cachimbo, Etc. )"
-114,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",115,"Cortina / Persiana / Papel de Parede","Cortina / Persiana / Papel de Parede"
-115,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",116,"Carpete / Tapete ( Nylon, Madeira )","Carpete / Tapete ( Nylon, Madeira )"
-116,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",117,"Ferramenta ( Alicate, Cortador de Grama, Furadeira, Pá, Pincel, Etc. )","Ferramenta ( Alicate, Cortador de Grama, Furadeira, Pá, Pincel, Etc. )"
-117,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",118,"Material de Acabamento de Construção Pronto (Portão, Azulejos, Tintas, Pisos Para Revestimento, Paviflex )","Material de Acabamento de Construção Pronto (Portão, Azulejos, Tintas, Pisos Para Revestimento, Paviflex )"
-118,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",119,"Material de Escritório / Escola ( Arquivo, Borracha, Clipes, Grampeador, Sulfite, Caderno, Caneta, Apontador, Etc. )","Material de Escritório / Material Escolar"
-119,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",120,"Móveis Para Cozinha",Móveis
-120,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",121,"Móveis Para Banheiro",Móveis
-121,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",122,"Móveis Para Quarto",Móveis
-122,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",123,"Móveis Para Sala",Móveis
-123,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",124,"Móveis (outros)",Móveis
-124,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",125,"Aquecedor / Ventilador / Ar Condicionado / Circulador de Ar","Aquecedor / Ventilador / Ar Condicionado / Circulador de Ar"
-125,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",126,"Produtos Doméstico ( Escada, Balança, Overloque, Máquina de Costura / Tricô, Vassoura, Escova, Rodo, Saco de Lixo, Palha de Aço )","Produtos Doméstico ( Escada, Balança, Overloque, Máquina de Costura / Tricô, Vassoura, Escova, Rodo, Saco de Lixo, Palha de Aço )"
-126,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",127,"Piscina ( Fibra ) / Sauna / Banheira de Hidromassagem","Piscina ( Fibra ) / Sauna / Banheira de Hidromassagem"
-127,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",128,Plantas,Plantas
-128,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",129,"Carro Nacional Zero ( Montadora )",Carros
-129,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",130,"Carro Importado",Carros
-130,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",131,"Carro Usado",Carros
-131,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",132,"Vestuário ( Calçado / Roupa )","Vestuário (Calçados / Roupas / Acessórios)"
-132,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",133,"Combustível Automotivo ( Gasolina, Álcool, Diesel, Gás )","Combustível Automotivo ( Gasolina, Álcool, Diesel, Gás )"
-133,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",134,"Produto de Uso Pessoal ( Barbeador, Depilador, Secador, Outros )","Produto de Uso Pessoal ( Barbeador, Depilador, Secador, Outros )"
-134,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",135,"Venda a Domicílio / Reembolso Postal","Venda a Domicílio / Reembolso Postal"
-135,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",136,Telemarketing,Telemarketing
-136,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",137,Internet,"Internet (Serviços e Produtos)"
-137,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",138,"Feiras Itinerantes","Feiras Itinerantes"
-138,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",139,"Eletrodoméstico Importado","Eletrodoméstico Importado"
-139,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",140,"Eletroeletrônico Importado","Eletroeletrônico Importado"
-140,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",141,"Outros Produtos Importados","Outros Produtos Importados"
-141,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",142,"Produtos de Decoração ( Cinzeiro, Vasos, Abajur )","Artigos de Decoração"
-142,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",143,Luminárias/lâmpadas,Luminárias/lâmpadas
-143,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",144,"Cartões de Descontos","Cartões de Descontos"
-144,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",145,Motos,Motos
-145,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",146,"Aparelho DVD","Televisão / Aparelho DVD / Filmadora"
-146,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",147,Seguro,"Seguros (exceto Saúde)"
-147,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",156,"Transporte  ( Passageiros, Cargas )",Transportes
-148,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",157,"Transporte ( Rodoviário, Passageiros, Cargas, Aéreo, Marítimo, etc. )",Transportes
-149,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",174,"TV Por Assinatura ( Cabo, Satélite, Etc. )"," Não se aplica"
-150,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",180,Cemitério,Cemitério
-151,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",181,Funerária,Funerária
-152,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",182,"Serviços Postais","Serviços Postais"
-153,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",183,"Água / Esgoto","Água / Esgoto"
-154,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",184,"Gás Encanado","Gás Encanado"
-155,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",185,"Energia Elétrica","Energia Elétrica"
-156,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",186,"Telefonia Fixa ( Plano de Expansão / Compra e Venda / Locação )","Telefonia Fixa"
-157,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",187,"Telefonia Celular","Telefonia Celular"
-158,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",188,"Telefonia Comunitária ( PABX, DDR, Etc. )","Telefonia Comunitária ( PABX, DDR, Etc. )"
-159,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",190,"Transporte Escolar"," Não se aplica"
-160,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",194,"Informática (Ex.:Provedor de Acesso a Internet)"," Não se aplica"
-161,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",199,"Convênio de Assistência Médica / Odontológica","Plano de Saúde (Médico / Odontológico)"
-162,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",200,"Seguro Saúde","Plano de Saúde (Médico / Odontológico)"
-163,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",201,"Associações / Cooperativas / Sociedades Filantrópicas","Associações / Cooperativas / Sociedades Filantrópicas"
-164,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",202,"Convênio de Assistência Veterinária","Convênio de Assistência Veterinária"
-165,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",203,"Hospital / Pronto Socorro / Ambulatório / Clínica Médica","Hospital / Pronto Socorro / Ambulatório / Clínica Médica"
-166,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",204,"Estética ( Clínica de Emagrecimento / Plástica / Implante de Cabelos / Salão de Beleza )","Estética ( Clínica de Emagrecimento / Plástica / Implante de Cabelos / Salão de Beleza )"
-167,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",205,"Clínica Geriátrica ( Casa de Repouso / Internato / Similares )","Clínica Geriátrica ( Casa de Repouso / Internato / Similares )"
-168,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",206,"Clínica Veterinária","Clínica Veterinária"
-169,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",207,"Óticas ( Lentes / Óculos )","Óticas ( Lentes / Óculos )"
-170,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",208,"Farmácia / Drogaria","Farmácia / Drogaria"
-171,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",209,Dedetizadora,Dedetizadora
-172,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",210,"Profissional Liberal - Médico","Profissional Liberal - Médico"
-173,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",211,"Profissional Liberal - Veterinário","Profissional Liberal - Veterinário"
-174,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",212,"Profissional Liberal - Dentista","Profissional Liberal - Dentista"
-175,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",213,"Outros Profissionais Liberais ( Esteticista / Massagista / Farmacêutico )","Outros Profissionais Liberais relacionados a Saúde ( Esteticista / Massagista / Farmacêutico )"
-176,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",214,"Outros Serviços ( Laboratório de Análises Clínicas / Clínicas Que Realizam Exames / Remoção )","Outros Serviços de Saúde ( Laboratório de Análises Clínicas / Clínicas Que Realizam Exames / Remoção )"
-177,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",215,"Aparelho Corretivo ( Ortopédico / Auditivo / Prótese / Acessório )","Aparelho Corretivo ( Ortopédico / Auditivo / Prótese / Acessório )"
-178,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",216,"Medicamento Alopático ( Manipulado / Industrializado )","Medicamento Alopático ( Manipulado / Industrializado )"
-179,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",217,"Medicamento Homeopático / Fitoterápico ( Manipulado / Industrializado )","Medicamento Homeopático / Fitoterápico ( Manipulado / Industrializado )"
-180,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",218,"Cosméticos ( Pó Facial / Talco / Creme e Loção de Beleza e de Barbear / Batom / Sombra / Bronzeadores / Protetor Solar / Depilador / Esmalte / Clareador e Tintu",Cosméticos
-181,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",219,"Produto de Higiene ( Absorvente / Fralda / Lenço de Papel Umedecidos / Papel Higiênico Perfumado / Sabonete / Shampoo / Condicionador / Creme e Escova Dental /","Produto de Higiene ( Absorvente / Fralda / Lenço de Papel Umedecidos / Papel Higiênico Perfumado / Sabonete / Shampoo / Condicionador / Creme e Escova Dental /"
-182,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",220,"Domissanitário / Saneante ( Desinfetante / Detergente / Cera / Creolina / Sabão / Água Sanitária ) Desinfetante ( Inseticida / Raticida Doméstico )","Domissanitário / Saneante (Desinfetante / Detergente / Cera / Creolina / Sabão / Água Sanitária / Inseticida)"
-183,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",221,"Produto Químico ( Acetona / Creolina / Querosene / Cloro Puro - Para Piscinas )","Produto Químico ( Acetona / Creolina / Querosene / Cloro Puro - Para Piscinas )"
-184,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",222,"Produtos Correlatos ( Preservativo / Gaze / Esparadrapo / Curativo Adesivo / Agulha / Seringa / Termômetro / Inalador / Cotonetes )","Produtos de Saúde ( Preservativo / Gaze / Esparadrapo / Curativo Adesivo / Agulha / Seringa / Termômetro / Inalador / Cotonetes )"
-185,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",223,"Canil / Pet Shop / Outros Estabelecimentos Que Comercializam Animais","Canil / Pet Shop / Outros Estabelecimentos Que Comercializam Animais"
-186,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",224,"Produto Para Uso Veterinário ( Medicamento / Sabonete / Shampoo )","Produto Para Uso Veterinário ( Medicamento / Sabonete / Shampoo )"
-187,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",225,"Venda Através de Reembolso Postal /  Domicílio","Venda a Domicílio / Reembolso Postal"
-188,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",226,Telemarketing,Telemarketing
-189,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",227,Internet,"Produtos de Saúde Comprados pela Internet"
-190,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",229,"Cartões de Descontos","Cartões de Descontos"
-191,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",230,"Aparelhos de ginástica","Aparelhos de ginástica"
-192,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",231,Seguro,"Seguros (exceto Saúde)"
-193,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",233,"Escola ( Pré, 1º, 2º Graus e Superior )","Escola ( Pré, 1º, 2º Graus e Superior )"
-194,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",234,"Curso de Informática","Curso de Informática"
-195,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",235,"Curso de Línguas","Curso de Línguas"
-196,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",236,"Cursos Livres Outros","Cursos Livres Outros"
-197,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",237,"Academia de Ginástica / Natação / Esportes","Academia de Ginástica / Natação / Esportes"
-198,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",238,"Intercâmbio Cultural","Intercâmbio Cultural"
-199,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",239,"Lavanderia / Tinturaria","Lavanderia / Tinturaria"
-200,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",240,Mudanças,Mudanças
-201,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",242,"Transporte ( Rodoviário, Passageiros, Cargas, Aéreo, Marítimo, etc. )"," Não se aplica"
-202,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",243,Dedetizadora,Dedetizadora
-203,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",244,"Hospedagem ( Hotel, Pousada, Chalé, Albergue, Etc. )","Hospedagem ( Hotel, Pousada, Chalé, Albergue, Etc. )"
-204,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",245,"Clubes / Uso Compartilhado ( Lazer, Recreação, Férias, Etc. )","Clubes / Uso Compartilhado ( Lazer, Recreação, Férias, Etc. )"
-205,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",246,"Eventos ( Festas, Buffet, Formatura, Etc. )","Eventos ( Festas, Buffet, Formatura, Etc. )"
-206,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",247,"Foto / Vídeo / Som","Foto / Vídeo / Som"
-207,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",248,"Diversão / Lazer / Cultura ( Teatro, Cinema, Casa Noturna, Videolocadora, Etc. )","Diversão / Lazer / Cultura ( Teatro, Cinema, Casa Noturna, Etc. )"
-208,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",249,"Assistência Técnica","Assistência Técnica"
-209,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",250,"Oficinas ( Mecânica, Funilaria, Auto-Elétrica, Borracharia )","Oficinas ( Mecânica, Funilaria, Auto-Elétrica, Borracharia )"
-210,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",251,Desentupidoras,Desentupidoras
-211,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",252,"Instalação ( Hidráulica / Elétrica ) / Perfuração / Pavimentação / Impermeabilização","Instalação ( Hidráulica / Elétrica ) / Perfuração / Pavimentação / Impermeabilização"
-212,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",253,"Construção / Reforma / Montagem / Acabamento","Construção / Reforma / Montagem / Acabamento"
-213,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",254,"Serviços de Marcenaria","Serviços de Marcenaria"
-214,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",255,"Serviços de Serralheria ( Portão, Grades, Janelas, Etc. )","Serviços de Serralheria ( Portão, Grades, Janelas, Etc. )"
-215,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",256,"Serviços de Vidraçaria","Serviços de Vidraçaria"
-216,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",257,"Serviços de Tapeçaria / Costura","Serviços de Tapeçaria / Costura"
-217,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",258,"Consultoria / Assessoria / Agenciamento ( Recolocação Profissional, Agência de Empregada, de Casamento, Etc. )","Consultoria / Assessoria / Agenciamento ( Recolocação Profissional, Agência de Empregada, de Casamento, Etc. )"
-218,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",259,"TV Por Assinatura ( Cabo, Satélite, Etc. )","TV por Assinatura"
-219,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",260,"Radiochamada / Pager","Radiochamada / Pager"
-220,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",261,Despachante,Despachante
-221,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",262,"Estacionamento ( Particular, Supermercado, Shopping, Etc. )","Estacionamento ( Particular, Supermercado, Shopping, Etc. )"
-222,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",263,"Profissional Liberal ( Contador, Arquiteto )","Profissional Liberal ( Contador, Arquiteto )"
-223,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",264,"Automóvel - Locação / Assistência Automobilística ( Clube do Automóvel, Etc. ) / Auto Escola","Automóvel - Locação / Assistência Automobilística ( Clube do Automóvel, Etc. ) / Auto Escola"
-224,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",266,"Plano de Assistência Funerária","Plano de Assistência Funerária"
-225,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",267,"Serviços Postais"," Não se aplica"
-226,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",274,"Serviços Telefônicos Especiais ( Disque 900 / Erótico, Etc. )","Serviços Telefônicos Diversos"
-227,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",275,"Transporte Escolar","Transporte Escolar"
-228,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",276,"Agências e Operadoras de viagens (pacotes turísticos)","Agências e Operadoras de viagens (pacotes turísticos)"
-229,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",277,"Prestadora de Serviço de Reabilitação de Nome","Prestadora de Serviço de Reabilitação de Nome"
-230,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",278,"Informações sobre o Procon","Informações sobre o Procon*	"
-231,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",279,"Informática (Ex.:Provedor de Acesso a Internet)","Internet (Serviços e Produtos)"
-232,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",280,"Cartões de Descontos","Cartões de Descontos"
-233,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",281,Leiloeiro,Leiloeiro
-234,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",282,Seguro,"Seguros (exceto Saúde)"
-235,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",283,"Estabelecimento comercial (supermercado, loja, padaria, locadora, frutaria, etc.)","Estabelecimento comercial (supermercado, loja, padaria, locadora, frutaria, etc.)"
-236,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",284,"Plano de saúde regulamentado","Plano de Saúde (Médico / Odontológico)"
-237,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",285,"Plano de saúde NÃO regulamentado","Plano de Saúde (Médico / Odontológico)"
-238,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",286,"Plano Odontológico","Plano de Saúde (Médico / Odontológico)"
-239,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",287,Bicicletas,Bicicletas
-240,1,"1900-01-01 00:00:00","2037-12-31 23:59:59",288,"Máquinas e Equipamentos","Máquinas e Equipamentos"
+key;version;date_from;date_to;CodigoAssunto;DescricaoAssunto;GrupoAssunto
+0;1;"1970-01-01 00:00:01";"2038-01-01 00:00:00";0;"Sem descricao";"Sem Grupo"
+1;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";0;" Não se aplica";" Não se aplica"
+2;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";1;"Padaria ( Pão-Francês, Pão de Centeio, Bolos, Bombas, Biscoitos, Massas Prontas Para Tortas, Docinhos, Confeitos e Outros )";Padaria
+3;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";2;"Supermercado ( Paes e Outros Produtos Feitos na Panificadora do Supermercado, Verduras, Frutas e Legumes In Natura, Carnes Cruas e Peixes Frescos do";Supermercado
+4;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";3;"Restaurante / Fast Food ( Refeições / Sanduíches Servidos Pelo Local )";"Restaurante / Fast Food ( Refeições / Sanduíches Servidos Pelo Local )"
+5;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";4;"Açougue e Peixarias ( Produtos Crus Vendidos Neste Local )";"Açougue e Peixarias ( Produtos Crus Vendidos Neste Local )"
+6;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";5;"Bares, Docerias, Chopperias, Casas Noturnas e Afins";"Alimentos vendidos em Bares, Docerias, Chopperias, Casas Noturnas e Afins"
+7;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";6;"Açúcar / Mel";"Açúcar / Mel"
+8;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";7;Água;Água
+9;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";8;"Bebidas Alcoólicas";"Bebidas Alcoólicas"
+10;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";9;"Bolacha, biscoitos e petiscos";"Bolacha, biscoitos e petiscos"
+11;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";10;Café;Café
+12;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";11;Chá;Chá
+13;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";12;"Carnes e Derivados (Hambúrguer congelado cru, peitos de frango temperados congelados, embutidos: salame, mortadela, salsicha, etc.)";"Carnes e Derivados"
+14;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";13;"Conserva Animal (atum, sardinha, apresuntado, alite, feijoada, patê, etc.)";"Conserva Animal (atum, sardinha, apresuntado, alite, feijoada, patê, etc.)"
+15;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";14;"Conserva Vegetal (azeitona, ervilha, milho, palmito, aspargo, cogumelo) em qualquer tipo de embalagem.";"Conserva Vegetal (azeitona, ervilha, milho, palmito, aspargo, cogumelo) em qualquer tipo de embalagem."
+16;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";15;"Doces prontos (frutas em calda, cristalizadas, em geleias ou pastas, sorvetes, bala, suspiro, docinhos para festas enlatados, cristais de gengibre).";"Doces prontos"
+17;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";16;"Especiarias e Condimentos (orégano, pimenta, cravo, canela, páprica, noz moscada, alho e cebola desidratados).";"Especiarias e Condimentos"
+18;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";17;"Farináceos (fubá, polvilho, etc.)";"Farináceos (fubá, polvilho, etc.)"
+19;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";18;"Grãos, cereais (feijão, grão de bico, arroz, farelo de trigo, sucrilho, aveia, granola, creme de arroz)";"Grãos, cereais (feijão, grão de bico, arroz, farelo de trigo, sucrilho, aveia, granola, creme de arroz)"
+20;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";19;"Leite e derivados (bebidas lácteas, iogurte, queijo, manteiga, creme de leite - normal, em pó e light)";"Leite e derivados"
+21;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";20;Massas;Massas
+22;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";21;Embalagem;Embalagem
+23;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";22;"Molhos (maionese, mostarda, ketchup, shoyo, inglês)";"Molhos (maionese, mostarda, ketchup, shoyo, inglês)"
+24;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";23;Ovos;Ovos
+25;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";24;"Paes e bolos industrializados (pão de forma, bisnagas, bolos tipo Pullmam)";"Pães e bolos industrializados (pão de forma, bisnagas, bolos)"
+26;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";25;"Peixes e frutos do mar (congelados e embalados)";"Peixes e frutos do mar (congelados e embalados)"
+27;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";26;"Pratos prontos/pré preparados (tortas, pão de queijo, carnes recheadas cruas tipo marinados, nugets, salgadinhos, coxinhas, bolinhas de queijos e outros, pratos";"Pratos prontos/pré preparados"
+28;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";27;"Alimento dietético (exceto refrigerante dietético)";"Alimento dietético (exceto refrigerante dietético)"
+29;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";28;"Pós para preparo (refresco, gelatina, pudim, bolos, pão de queijo, pizza e sorvete)";"Pós para preparo (refresco, gelatina, pudim, bolos, pão de queijo, pizza e sorvete)"
+30;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";29;"Ração animal";"Ração animal"
+31;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";30;"Refrigerantes (normal, dietético e light)";"Refrigerantes (normal, dietético e light)"
+32;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";31;"Suco (concentrado, prontos para beber, gelatina em floquinhos)";Sucos
+33;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";32;"Sopas (desidratadas, liofilizadas, latas e embaladas)";Sopas
+34;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";33;"Frutas e hortaliças (legumes, verduras, cebola e cabeça de alho in natura, embaladas com atmosfera modificada ou outro sistema de conservação)";"Frutas e hortaliças"
+35;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";34;"Ticket (vale refeição, alimentação e leite)";"Ticket (vale refeição, alimentação e leite)"
+36;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";35;"Produtos importados (todos os produtos)";"Produtos alimentícios importados (todos os produtos)"
+37;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";36;"Alimentos infantis (leites próprios para crianças tipo nan, sopinha, neston, mucilon, cremogema)";"Alimentos infantis (leites próprios para crianças, sopinha, etc)"
+38;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";37;"Óleos e gorduras (margarina normal e light, gordura vegetal hidrogenada, etc.)";"Óleos e gorduras (margarina normal e light, gordura vegetal hidrogenada, etc.)"
+39;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";38;"Alimentos para fins especiais (atletas, gestantes, idosos e bebidas isotônicas)";"Alimentos para fins especiais (atletas, gestantes, idosos)"
+40;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";39;"Complementos e suplementos nutricionais (óleo de fígado de bacalhau, levedo de cerveja, complexos vitamínicos e minerais, vitaminas e minerais isolados)";"Complementos e suplementos nutricionais"
+41;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";40;"Tomate e derivados (in natura, extratos, molhos, polpa)";"Tomate e derivados (in natura, extratos, molhos, polpa)"
+42;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";41;"Temperos prontos (ajinomoto, sal com alho, etc.)";"Temperos prontos"
+43;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";42;"Fermento em pó e o biológico";"Fermento em pó e o biológico"
+44;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";43;Sal;Sal
+45;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";45;"Chocolate (em pó, barra, tabletes, bombons)";"Chocolate (em pó, barra, tabletes, bombons)"
+46;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";46;"Balança (informação nutricional, como valor calórico e relação peso/altura)";"Balança (informação nutricional, como valor calórico e relação peso/altura)"
+47;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";47;"Venda através de reembolso postal a domicilio";"Venda a Domicílio / Reembolso Postal"
+48;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";48;"Venda por telemarketing";"Venda por telemarketing"
+49;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";49;"Venda por Internet";"Venda de alimentos pela Internet"
+50;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";50;"Alimentos nutraceuticos (alimentos com finalidade terapêutica)";"Alimentos nutraceuticos (alimentos com finalidade terapêutica)"
+51;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";51;"Cartões de Descontos";"Cartões de Descontos"
+52;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";53;"Banco comercial";"Banco comercial"
+53;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";54;"Cartão de Crédito";"Cartão de Crédito"
+54;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";55;"Cartão de Loja";"Cartão de Loja"
+55;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";56;"Consórcio Imobiliário";Consórcios
+56;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";57;"Consórcio de Automóveis ou Automotores, Utilitários, Caminhonetes";Consórcios
+57;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";58;"Consórcio de Motocicletas";Consórcios
+58;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";59;"Consórcio de Caminhões";Consórcios
+59;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";60;"Consórcio de Outros Bens - Móveis Duráveis";Consórcios
+60;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";61;"Consórcio de Bilhetes de Passagem Aérea e Pacote Turístico";Consórcios
+61;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";62;"Empresa de Cobrança";"Empresa de Cobrança"
+62;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";63;Financeira;Financeira
+63;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";64;"Empresa Privada / Montepio Pecúlio (tbareaassunto Não Relativos ao Valor de Resgate)";"Empresa Privada / Montepio Pecúlio (Não Relativos ao Valor de Resgate)"
+64;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";65;"Corretora de Seguros";"Seguros (exceto Saúde)"
+65;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";66;"Seguro de Automóvel";"Seguros (exceto Saúde)"
+66;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";67;"Seguro de Vida";"Seguros (exceto Saúde)"
+67;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";68;"Seguro Residencial";"Seguros (exceto Saúde)"
+68;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";69;"Outros Seguros";"Seguros (exceto Saúde)"
+69;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";70;"Titulo de Capitalização";"Titulo de Capitalização"
+70;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";71;"Venda Programada";"Venda Programada"
+71;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";72;Leasing;Leasing
+72;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";73;"Estabelecimento / Loja - Compra a Prazo";"Estabelecimento / Loja - Compra a Prazo"
+73;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";74;"Banco de Dados ( SPC - SERASA - ETC. )";"Banco de Dados e Cadastros de Consumidores (SPC, Serasa, SCPC etc.)"
+74;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";75;"Comércio de Ouro";"Comércio de Ouro"
+75;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";76;"Outros Contratos";"Contratos Financeiros Diversos*"
+76;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";77;"Sociedade em conta de participação";"Sociedade em conta de participação"
+77;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";78;"Cartões de Descontos";"Cartões de Descontos"
+78;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";79;Seguro;"Seguros (exceto Saúde)"
+79;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";80;Locação;"Locação (Habitação)"
+80;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";81;Loteamento;Loteamento
+81;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";82;"Incorporação ( Construtoras e Incorporadoras )";"Incorporação ( Construtoras e Incorporadoras )"
+82;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";83;Condomínio;Condomínio
+83;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";84;"Sociedade em conta de participação";"Sociedade em conta de participação"
+84;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";85;"Cartões de Descontos";"Cartões de Descontos"
+85;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";86;Seguro;"Seguros (exceto Saúde)"
+86;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";87;"Material de Construção (areia, cimento, tijolo, pregos, lajes, blocos, etc.)";"Material de Construção (areia, cimento, tijolo, pregos, lajes, blocos, etc.)"
+87;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";88;"Acessório para Aparelho Eletrônico/Pilha/Elétrico (Agulha, fone de ouvido, bateria, etc.)";"Acessório para Aparelho Eletrônico/Pilha/Elétrico (Agulha, fone de ouvido, bateria, etc.)"
+88;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";89;"Acessório Para Veículo ( Alarme, Amortecedor, Câmbio, Buzina, Estofamento, Lâmpada, Bateria, etc.)";"Acessório Para Veículo ( Alarme, Amortecedor, Câmbio, Buzina, Estofamento, Lâmpada, Bateria, etc.)"
+89;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";90;"Acessório Para Vestuário ( Bolsa, Cinto, Chapéu, guarda-chuva, Jóia, Bijuteria, Luva, Etc. )";"Vestuário (Calçados / Roupas / Acessórios)"
+90;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";91;"Artigo de audiovisual ( Fita Cassete, Disco, Fita de Vídeo, CD )";"Artigo de audiovisual (CD, DVD etc.)"
+91;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";92;"Máquina de Lavar Roupa / Louça e Secadora";"Eletrodomésticos Linha Branca"
+92;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";93;"Fogão e Microondas";"Eletrodomésticos Linha Branca"
+93;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";94;"Geladeira e Freezer";"Eletrodomésticos Linha Branca"
+94;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";95;"Aparelho de Som ( Gravador, 3x1, CD )";"Aparelho de Som"
+95;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";96;"Televisão / Vídeo Cassete / Filmadora / Video-Laser";"Televisão / Aparelho DVD / Filmadora"
+96;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";97;"Eletroportáteis ( Batedeira, Liqüidificador, Espremedor de Frutas, Etc. )";"Eletroportáteis ( Batedeira, Liqüidificador, Espremedor de Frutas, Etc. )"
+97;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";98;"Artigos de Enxoval ( Cama / Mesa e Banho )";"Artigos de Enxoval ( Cama / Mesa e Banho )"
+98;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";99;Pneu;Pneu
+99;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";100;Colchão;Colchão
+100;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";101;"Telefone ( Convencional, Celular, Interfone, Etc. )";"Aparelho Celular"
+101;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";102;"Microcomputador / Produtos de Informática";"Microcomputador / Produtos de Informática"
+102;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";103;"Artigo de Cozinha ( Coifa, Exaustor, Panela, Talher, Filtro de Café, Porta-Filtro, Louças, Etc. )";"Artigo de Cozinha ( Coifa, Exaustor, Panela, Talher, Filtro de Café, Porta-Filtro, Louças, Etc. )"
+103;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";104;Fósforo;Fósforo
+104;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";105;"Artigo de Foto Imagem ( Filme, Ampliador, Luneta, Flash, Máquina Fotográfica, Binóculos, Etc. )";"Artigo de Foto Imagem ( Filme, Ampliador, Luneta, Flash, Máquina Fotográfica, Binóculos, Etc. )"
+105;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";106;"Artigo de Leitura ( Formal, Jornal, Revista, Folheto, Livros, Etc. )";"Artigo de Leitura (Jornal, Revista, Livros etc.)"
+106;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";107;"Artigo e Instrumento Musical ( Cordas, Violão, Flautas, Etc. )";"Artigo e Instrumento Musical ( Cordas, Violão, Flautas, Etc. )"
+107;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";108;"Artigo Esportivo / Lazer ( Bola, Raquete, Rede, Cotoveleira, Arma, Baralho, Roleta, Etc. )";"Artigo Esportivo / Lazer ( Bola, Raquete, Rede, Cotoveleira, Arma, Baralho, Roleta, Etc. )"
+108;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";109;"Artigo Para Festa ( Bexiga, Máscara, Enfeites, Fogos, Balão, Etc. )";"Artigo Para Festa ( Bexiga, Máscara, Enfeites, Fogos, Balão, Etc. )"
+109;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";110;"Botijão de Gás";"Botijão de Gás"
+110;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";111;"Purificador de Água / Filtro";"Purificador de Água / Filtro"
+111;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";112;Brinquedos;Brinquedos
+112;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";113;"Camping / Náutica / Pesca / ( Barraca, Lampião, Barco, Vela, Motor, Anzol, Vara, Jet Ski )";"Camping / Náutica / Pesca / ( Barraca, Lampião, Barco, Vela, Motor, Anzol, Vara, Jet Ski )"
+113;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";114;"Charutaria ( Cigarro, Tabaco, Cachimbo, Etc. )";"Charutaria ( Cigarro, Tabaco, Cachimbo, Etc. )"
+114;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";115;"Cortina / Persiana / Papel de Parede";"Cortina / Persiana / Papel de Parede"
+115;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";116;"Carpete / Tapete ( Nylon, Madeira )";"Carpete / Tapete ( Nylon, Madeira )"
+116;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";117;"Ferramenta ( Alicate, Cortador de Grama, Furadeira, Pá, Pincel, Etc. )";"Ferramenta ( Alicate, Cortador de Grama, Furadeira, Pá, Pincel, Etc. )"
+117;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";118;"Material de Acabamento de Construção Pronto (Portão, Azulejos, Tintas, Pisos Para Revestimento, Paviflex )";"Material de Acabamento de Construção Pronto (Portão, Azulejos, Tintas, Pisos Para Revestimento, Paviflex )"
+118;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";119;"Material de Escritório / Escola ( Arquivo, Borracha, Clipes, Grampeador, Sulfite, Caderno, Caneta, Apontador, Etc. )";"Material de Escritório / Material Escolar"
+119;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";120;"Móveis Para Cozinha";Móveis
+120;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";121;"Móveis Para Banheiro";Móveis
+121;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";122;"Móveis Para Quarto";Móveis
+122;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";123;"Móveis Para Sala";Móveis
+123;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";124;"Móveis (outros)";Móveis
+124;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";125;"Aquecedor / Ventilador / Ar Condicionado / Circulador de Ar";"Aquecedor / Ventilador / Ar Condicionado / Circulador de Ar"
+125;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";126;"Produtos Doméstico ( Escada, Balança, Overloque, Máquina de Costura / Tricô, Vassoura, Escova, Rodo, Saco de Lixo, Palha de Aço )";"Produtos Doméstico ( Escada, Balança, Overloque, Máquina de Costura / Tricô, Vassoura, Escova, Rodo, Saco de Lixo, Palha de Aço )"
+126;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";127;"Piscina ( Fibra ) / Sauna / Banheira de Hidromassagem";"Piscina ( Fibra ) / Sauna / Banheira de Hidromassagem"
+127;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";128;Plantas;Plantas
+128;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";129;"Carro Nacional Zero ( Montadora )";Carros
+129;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";130;"Carro Importado";Carros
+130;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";131;"Carro Usado";Carros
+131;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";132;"Vestuário ( Calçado / Roupa )";"Vestuário (Calçados / Roupas / Acessórios)"
+132;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";133;"Combustível Automotivo ( Gasolina, Álcool, Diesel, Gás )";"Combustível Automotivo ( Gasolina, Álcool, Diesel, Gás )"
+133;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";134;"Produto de Uso Pessoal ( Barbeador, Depilador, Secador, Outros )";"Produto de Uso Pessoal ( Barbeador, Depilador, Secador, Outros )"
+134;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";135;"Venda a Domicílio / Reembolso Postal";"Venda a Domicílio / Reembolso Postal"
+135;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";136;Telemarketing;Telemarketing
+136;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";137;Internet;"Internet (Serviços e Produtos)"
+137;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";138;"Feiras Itinerantes";"Feiras Itinerantes"
+138;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";139;"Eletrodoméstico Importado";"Eletrodoméstico Importado"
+139;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";140;"Eletroeletrônico Importado";"Eletroeletrônico Importado"
+140;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";141;"Outros Produtos Importados";"Outros Produtos Importados"
+141;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";142;"Produtos de Decoração ( Cinzeiro, Vasos, Abajur )";"Artigos de Decoração"
+142;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";143;Luminárias/lâmpadas;Luminárias/lâmpadas
+143;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";144;"Cartões de Descontos";"Cartões de Descontos"
+144;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";145;Motos;Motos
+145;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";146;"Aparelho DVD";"Televisão / Aparelho DVD / Filmadora"
+146;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";147;Seguro;"Seguros (exceto Saúde)"
+147;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";156;"Transporte  ( Passageiros, Cargas )";Transportes
+148;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";157;"Transporte ( Rodoviário, Passageiros, Cargas, Aéreo, Marítimo, etc. )";Transportes
+149;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";174;"TV Por Assinatura ( Cabo, Satélite, Etc. )";" Não se aplica"
+150;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";180;Cemitério;Cemitério
+151;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";181;Funerária;Funerária
+152;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";182;"Serviços Postais";"Serviços Postais"
+153;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";183;"Água / Esgoto";"Água / Esgoto"
+154;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";184;"Gás Encanado";"Gás Encanado"
+155;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";185;"Energia Elétrica";"Energia Elétrica"
+156;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";186;"Telefonia Fixa ( Plano de Expansão / Compra e Venda / Locação )";"Telefonia Fixa"
+157;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";187;"Telefonia Celular";"Telefonia Celular"
+158;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";188;"Telefonia Comunitária ( PABX, DDR, Etc. )";"Telefonia Comunitária ( PABX, DDR, Etc. )"
+159;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";190;"Transporte Escolar";" Não se aplica"
+160;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";194;"Informática (Ex.:Provedor de Acesso a Internet)";" Não se aplica"
+161;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";199;"Convênio de Assistência Médica / Odontológica";"Plano de Saúde (Médico / Odontológico)"
+162;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";200;"Seguro Saúde";"Plano de Saúde (Médico / Odontológico)"
+163;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";201;"Associações / Cooperativas / Sociedades Filantrópicas";"Associações / Cooperativas / Sociedades Filantrópicas"
+164;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";202;"Convênio de Assistência Veterinária";"Convênio de Assistência Veterinária"
+165;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";203;"Hospital / Pronto Socorro / Ambulatório / Clínica Médica";"Hospital / Pronto Socorro / Ambulatório / Clínica Médica"
+166;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";204;"Estética ( Clínica de Emagrecimento / Plástica / Implante de Cabelos / Salão de Beleza )";"Estética ( Clínica de Emagrecimento / Plástica / Implante de Cabelos / Salão de Beleza )"
+167;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";205;"Clínica Geriátrica ( Casa de Repouso / Internato / Similares )";"Clínica Geriátrica ( Casa de Repouso / Internato / Similares )"
+168;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";206;"Clínica Veterinária";"Clínica Veterinária"
+169;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";207;"Óticas ( Lentes / Óculos )";"Óticas ( Lentes / Óculos )"
+170;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";208;"Farmácia / Drogaria";"Farmácia / Drogaria"
+171;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";209;Dedetizadora;Dedetizadora
+172;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";210;"Profissional Liberal - Médico";"Profissional Liberal - Médico"
+173;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";211;"Profissional Liberal - Veterinário";"Profissional Liberal - Veterinário"
+174;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";212;"Profissional Liberal - Dentista";"Profissional Liberal - Dentista"
+175;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";213;"Outros Profissionais Liberais ( Esteticista / Massagista / Farmacêutico )";"Outros Profissionais Liberais relacionados a Saúde ( Esteticista / Massagista / Farmacêutico )"
+176;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";214;"Outros Serviços ( Laboratório de Análises Clínicas / Clínicas Que Realizam Exames / Remoção )";"Outros Serviços de Saúde ( Laboratório de Análises Clínicas / Clínicas Que Realizam Exames / Remoção )"
+177;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";215;"Aparelho Corretivo ( Ortopédico / Auditivo / Prótese / Acessório )";"Aparelho Corretivo ( Ortopédico / Auditivo / Prótese / Acessório )"
+178;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";216;"Medicamento Alopático ( Manipulado / Industrializado )";"Medicamento Alopático ( Manipulado / Industrializado )"
+179;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";217;"Medicamento Homeopático / Fitoterápico ( Manipulado / Industrializado )";"Medicamento Homeopático / Fitoterápico ( Manipulado / Industrializado )"
+180;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";218;"Cosméticos ( Pó Facial / Talco / Creme e Loção de Beleza e de Barbear / Batom / Sombra / Bronzeadores / Protetor Solar / Depilador / Esmalte / Clareador e Tintu";Cosméticos
+181;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";219;"Produto de Higiene ( Absorvente / Fralda / Lenço de Papel Umedecidos / Papel Higiênico Perfumado / Sabonete / Shampoo / Condicionador / Creme e Escova Dental /";"Produto de Higiene ( Absorvente / Fralda / Lenço de Papel Umedecidos / Papel Higiênico Perfumado / Sabonete / Shampoo / Condicionador / Creme e Escova Dental /"
+182;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";220;"Domissanitário / Saneante ( Desinfetante / Detergente / Cera / Creolina / Sabão / Água Sanitária ) Desinfetante ( Inseticida / Raticida Doméstico )";"Domissanitário / Saneante (Desinfetante / Detergente / Cera / Creolina / Sabão / Água Sanitária / Inseticida)"
+183;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";221;"Produto Químico ( Acetona / Creolina / Querosene / Cloro Puro - Para Piscinas )";"Produto Químico ( Acetona / Creolina / Querosene / Cloro Puro - Para Piscinas )"
+184;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";222;"Produtos Correlatos ( Preservativo / Gaze / Esparadrapo / Curativo Adesivo / Agulha / Seringa / Termômetro / Inalador / Cotonetes )";"Produtos de Saúde ( Preservativo / Gaze / Esparadrapo / Curativo Adesivo / Agulha / Seringa / Termômetro / Inalador / Cotonetes )"
+185;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";223;"Canil / Pet Shop / Outros Estabelecimentos Que Comercializam Animais";"Canil / Pet Shop / Outros Estabelecimentos Que Comercializam Animais"
+186;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";224;"Produto Para Uso Veterinário ( Medicamento / Sabonete / Shampoo )";"Produto Para Uso Veterinário ( Medicamento / Sabonete / Shampoo )"
+187;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";225;"Venda Através de Reembolso Postal /  Domicílio";"Venda a Domicílio / Reembolso Postal"
+188;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";226;Telemarketing;Telemarketing
+189;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";227;Internet;"Produtos de Saúde Comprados pela Internet"
+190;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";229;"Cartões de Descontos";"Cartões de Descontos"
+191;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";230;"Aparelhos de ginástica";"Aparelhos de ginástica"
+192;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";231;Seguro;"Seguros (exceto Saúde)"
+193;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";233;"Escola ( Pré, 1º, 2º Graus e Superior )";"Escola ( Pré, 1º, 2º Graus e Superior )"
+194;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";234;"Curso de Informática";"Curso de Informática"
+195;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";235;"Curso de Línguas";"Curso de Línguas"
+196;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";236;"Cursos Livres Outros";"Cursos Livres Outros"
+197;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";237;"Academia de Ginástica / Natação / Esportes";"Academia de Ginástica / Natação / Esportes"
+198;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";238;"Intercâmbio Cultural";"Intercâmbio Cultural"
+199;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";239;"Lavanderia / Tinturaria";"Lavanderia / Tinturaria"
+200;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";240;Mudanças;Mudanças
+201;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";242;"Transporte ( Rodoviário, Passageiros, Cargas, Aéreo, Marítimo, etc. )";" Não se aplica"
+202;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";243;Dedetizadora;Dedetizadora
+203;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";244;"Hospedagem ( Hotel, Pousada, Chalé, Albergue, Etc. )";"Hospedagem ( Hotel, Pousada, Chalé, Albergue, Etc. )"
+204;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";245;"Clubes / Uso Compartilhado ( Lazer, Recreação, Férias, Etc. )";"Clubes / Uso Compartilhado ( Lazer, Recreação, Férias, Etc. )"
+205;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";246;"Eventos ( Festas, Buffet, Formatura, Etc. )";"Eventos ( Festas, Buffet, Formatura, Etc. )"
+206;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";247;"Foto / Vídeo / Som";"Foto / Vídeo / Som"
+207;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";248;"Diversão / Lazer / Cultura ( Teatro, Cinema, Casa Noturna, Videolocadora, Etc. )";"Diversão / Lazer / Cultura ( Teatro, Cinema, Casa Noturna, Etc. )"
+208;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";249;"Assistência Técnica";"Assistência Técnica"
+209;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";250;"Oficinas ( Mecânica, Funilaria, Auto-Elétrica, Borracharia )";"Oficinas ( Mecânica, Funilaria, Auto-Elétrica, Borracharia )"
+210;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";251;Desentupidoras;Desentupidoras
+211;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";252;"Instalação ( Hidráulica / Elétrica ) / Perfuração / Pavimentação / Impermeabilização";"Instalação ( Hidráulica / Elétrica ) / Perfuração / Pavimentação / Impermeabilização"
+212;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";253;"Construção / Reforma / Montagem / Acabamento";"Construção / Reforma / Montagem / Acabamento"
+213;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";254;"Serviços de Marcenaria";"Serviços de Marcenaria"
+214;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";255;"Serviços de Serralheria ( Portão, Grades, Janelas, Etc. )";"Serviços de Serralheria ( Portão, Grades, Janelas, Etc. )"
+215;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";256;"Serviços de Vidraçaria";"Serviços de Vidraçaria"
+216;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";257;"Serviços de Tapeçaria / Costura";"Serviços de Tapeçaria / Costura"
+217;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";258;"Consultoria / Assessoria / Agenciamento ( Recolocação Profissional, Agência de Empregada, de Casamento, Etc. )";"Consultoria / Assessoria / Agenciamento ( Recolocação Profissional, Agência de Empregada, de Casamento, Etc. )"
+218;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";259;"TV Por Assinatura ( Cabo, Satélite, Etc. )";"TV por Assinatura"
+219;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";260;"Radiochamada / Pager";"Radiochamada / Pager"
+220;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";261;Despachante;Despachante
+221;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";262;"Estacionamento ( Particular, Supermercado, Shopping, Etc. )";"Estacionamento ( Particular, Supermercado, Shopping, Etc. )"
+222;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";263;"Profissional Liberal ( Contador, Arquiteto )";"Profissional Liberal ( Contador, Arquiteto )"
+223;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";264;"Automóvel - Locação / Assistência Automobilística ( Clube do Automóvel, Etc. ) / Auto Escola";"Automóvel - Locação / Assistência Automobilística ( Clube do Automóvel, Etc. ) / Auto Escola"
+224;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";266;"Plano de Assistência Funerária";"Plano de Assistência Funerária"
+225;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";267;"Serviços Postais";" Não se aplica"
+226;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";274;"Serviços Telefônicos Especiais ( Disque 900 / Erótico, Etc. )";"Serviços Telefônicos Diversos"
+227;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";275;"Transporte Escolar";"Transporte Escolar"
+228;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";276;"Agências e Operadoras de viagens (pacotes turísticos)";"Agências e Operadoras de viagens (pacotes turísticos)"
+229;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";277;"Prestadora de Serviço de Reabilitação de Nome";"Prestadora de Serviço de Reabilitação de Nome"
+230;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";278;"Informações sobre o Procon";"Informações sobre o Procon*	"
+231;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";279;"Informática (Ex.:Provedor de Acesso a Internet)";"Internet (Serviços e Produtos)"
+232;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";280;"Cartões de Descontos";"Cartões de Descontos"
+233;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";281;Leiloeiro;Leiloeiro
+234;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";282;Seguro;"Seguros (exceto Saúde)"
+235;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";283;"Estabelecimento comercial (supermercado, loja, padaria, locadora, frutaria, etc.)";"Estabelecimento comercial (supermercado, loja, padaria, locadora, frutaria, etc.)"
+236;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";284;"Plano de saúde regulamentado";"Plano de Saúde (Médico / Odontológico)"
+237;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";285;"Plano de saúde NÃO regulamentado";"Plano de Saúde (Médico / Odontológico)"
+238;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";286;"Plano Odontológico";"Plano de Saúde (Médico / Odontológico)"
+239;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";287;Bicicletas;Bicicletas
+240;1;"1900-01-01 00:00:00";"2037-12-31 23:59:59";288;"Máquinas e Equipamentos";"Máquinas e Equipamentos"
